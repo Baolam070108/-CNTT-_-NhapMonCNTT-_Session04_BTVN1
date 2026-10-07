@@ -1,1 +1,1 @@
-# -CNTT-_-NhapMonCNTT-_Session04_BTVN1
+  (P1): khoảng trắng trong đường dẫn,dấu ngoặc kép "...",đường dẫn tương đối .\ / ..\                                                         (P2) New-Item -ItemType Directory -Path ".\Shopee-Lite" ; New-Item -ItemType Directory -Path ".\Shopee-Lite\src", ".\Shopee-Lite\data" ; Copy-Item ".\Shopee-Lite" ".\backup-Shopee-Lite" -Recurse                                                                                                                              
